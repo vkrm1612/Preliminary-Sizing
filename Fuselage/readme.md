@@ -1,6 +1,6 @@
-# Fuselage Structural Analysis — Conceptual Aircraft for Aspen-Pitkin Airport
+# Fuselage Structural Analysis — Conceptual Aircraft
 
-> **Group Design Project** · Aerospace Engineering · FEA & Structural Sizing  
+>   Aerospace Engineering · FEA & Structural Sizing  
 > Tools: `CATIA` · `Abaqus` · `SpaceClaim` · `Python`
 
 ---
@@ -244,4 +244,3 @@ All components across every load case remain within their material yield limits.
 
 ---
 
-*Group 3 · Conceptual Aircraft Design · 2024–25*
